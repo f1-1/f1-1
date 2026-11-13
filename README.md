@@ -11,7 +11,7 @@
 $${\color{#FF0000}check \space strawpage \space for \space \color{#FF0000}basic \space info \space (wip)}$$
 
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎                                ‎ ‎ ‎ ‎[<img width="110" height="50" alt="logo" src="https://github.com/user-attachments/assets/e1e32673-e4bf-42e5-92a6-18bf9498172a" />
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎          ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[<img width="110" height="50" alt="logo" src="https://github.com/user-attachments/assets/e1e32673-e4bf-42e5-92a6-18bf9498172a" />
 ](https://excalibur.atabook.org/)
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎[<img width="110" height="50" alt="mid-logo" src="https://github.com/user-attachments/assets/0b5c9e26-3991-4e0b-b17b-f131fd8134aa" />](https://sublaseryaoi.straw.page)
 
