@@ -1,7 +1,7 @@
 <img width="400" height="20" alt="102655" src="https://github.com/user-attachments/assets/1de74d14-7266-4572-9ce4-6f6186f3e76d" />
 
 
-<font color="green"> test </font>
+$${\color{red}hi \space \color{red}test \space \color{blue}hi}$$
 
 <img width="498" height="284" alt="minecraft-underwater" src="https://github.com/user-attachments/assets/60307dce-505a-4a3f-bcfe-e1bd9d340154" />
 
