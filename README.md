@@ -8,7 +8,7 @@
 
 
 
-$${\color{#FF007B}check \space strawpage \space for \color{#00A1FF}basic \space info \space (wip)}$$
+$${\color{#FF007B}check \space strawpage \space for \space \color{#00A1FF}basic \space info \space (wip)}$$
 
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎[<img width="110" height="50" alt="logo" src="https://github.com/user-attachments/assets/e1e32673-e4bf-42e5-92a6-18bf9498172a" />
