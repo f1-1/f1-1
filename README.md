@@ -1,6 +1,6 @@
 <img width="300" height="20" alt="102655" src="https://github.com/user-attachments/assets/1de74d14-7266-4572-9ce4-6f6186f3e76d" />
 
-<img width="300" height="300" alt="hyperlaser-shake" src="https://github.com/user-attachments/assets/438c9f20-31ac-452e-9bbc-0aae1d490b65" />
+<img width="350" height="350" alt="hyperlaser-shake" src="https://github.com/user-attachments/assets/438c9f20-31ac-452e-9bbc-0aae1d490b65" />
 
 
 
