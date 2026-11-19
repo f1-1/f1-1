@@ -2,7 +2,7 @@
 
 
 
-<img width="300" height="300" alt="maya-mayano-top-gun" src="https://github.com/user-attachments/assets/301d529d-5176-4fdc-b4d9-3e769cb6b4c3" />
+<img width="600" height="500" alt="maya-mayano-top-gun" src="https://github.com/user-attachments/assets/301d529d-5176-4fdc-b4d9-3e769cb6b4c3" />
 
 
 
