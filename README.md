@@ -2,13 +2,13 @@
 
 
 
-<img width="498" height="284" alt="minecraft-underwater" src="https://github.com/user-attachments/assets/60307dce-505a-4a3f-bcfe-e1bd9d340154" />
+<img width="300" height="300" alt="maya-mayano-top-gun" src="https://github.com/user-attachments/assets/301d529d-5176-4fdc-b4d9-3e769cb6b4c3" />
 
 
 
 
 
-$${\color{#b5a5a5}check \space strawpage \space for \space \color{#b5a5a5}basic \space info \space (wip)}$$
+$${\color{#822b2b}check \space strawpage \space for \space basic \space info \space (wip)}$$
 
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎          ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[<img width="110" height="50" alt="logo" src="https://github.com/user-attachments/assets/e1e32673-e4bf-42e5-92a6-18bf9498172a" />
